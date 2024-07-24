@@ -1,0 +1,391 @@
+{
+  "Users": [
+    {
+      "id": "d6b6",
+      "email": "joy1@gmail.com",
+      "name": "joy1",
+      "password": "Joy1@1234"
+    },
+    {
+      "id": "d943",
+      "email": "he@gmail.com",
+      "password": "h123",
+      "name": "he"
+    },
+    {
+      "id": "4063",
+      "email": "jay@gmail.com",
+      "password": "Jay@123",
+      "name": "jay"
+    },
+    {
+      "id": "d12e",
+      "email": "vasudev@gmail.com",
+      "password": "Vasudev@123",
+      "name": "Vasudev"
+    },
+    {
+      "id": "167b",
+      "email": "honey@gmail.com",
+      "password": "Honey@123",
+      "name": "Honey"
+    },
+    {
+      "id": "6224",
+      "email": "harsheta@gmail.com",
+      "password": "Harsh@123",
+      "name": "Harsheta Mahajan"
+    },
+    {
+      "id": "a87e",
+      "email": "harsheta@gmail.com",
+      "password": "Harsh@123",
+      "name": "Harsheta Mahajan"
+    },
+    {
+      "id": "d21a",
+      "email": "jay@gmail.com",
+      "password": "jay@123",
+      "name": "jay"
+    },
+    {
+      "id": "0c73",
+      "email": "jaya@gmail.com",
+      "password": "jaya@123",
+      "name": "jaya"
+    },
+    {
+      "id": "2f0e",
+      "email": "harsh@gmail.com",
+      "password": "Harsh@123",
+      "name": "Harsheta Mahajan"
+    },
+    {
+      "id": "730d",
+      "email": "harsh@gmail.com",
+      "password": "Harsh@123",
+      "name": "Harsheta Mahajan"
+    },
+    {
+      "id": "8e6b",
+      "email": "sign@gmail.com",
+      "password": "Sign@123",
+      "name": "sign"
+    },
+    {
+      "id": "4bfe",
+      "email": "harsh@gmail.com",
+      "password": "Harsh@123",
+      "name": "Harsheta Mahajan"
+    },
+    {
+      "id": "d0b5",
+      "email": "honeysing@test.com",
+      "password": "honey123",
+      "name": "Honey Singh"
+    },
+    {
+      "id": "37d5",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "kareena kapoor"
+    },
+    {
+      "id": "be0f",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "kareena kapoor"
+    },
+    {
+      "id": "107b",
+      "email": "sanket@test.com",
+      "password": "123456",
+      "name": "sanket shinde"
+    },
+    {
+      "id": "d489",
+      "email": "murli@test.com",
+      "password": "123",
+      "name": "murlidhar mohol"
+    },
+    {
+      "id": "b247",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": ""
+    },
+    {
+      "id": "d3b1",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": ""
+    },
+    {
+      "id": "d5b1",
+      "email": "askhay@test.com",
+      "password": "123456",
+      "name": "Akshay kumar"
+    },
+    {
+      "id": "4c79",
+      "email": "sanketshinde@test.com",
+      "name": "sanket",
+      "password": "123456"
+    },
+    {
+      "id": "3b9c",
+      "email": "sanketshinde@test.com",
+      "name": "sanket",
+      "password": "10101010010101"
+    },
+    {
+      "id": "e538",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "kareena "
+    },
+    {
+      "id": "edfc",
+      "email": "salmankhan@test.com",
+      "password": "123456",
+      "name": "salman khan"
+    },
+    {
+      "id": "bbd4",
+      "email": "deepika@test.com",
+      "password": "12345",
+      "name": "deepika padukone"
+    },
+    {
+      "id": "f9ed",
+      "email": "yuzi@test.com",
+      "password": "1234",
+      "name": "yuzi chahal"
+    },
+    {
+      "id": "a9bd",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "77aa",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "9848",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "dcf5",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "1675",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "f9e9",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "fa85",
+      "email": "kareenakapoor@test.com",
+      "password": "1234",
+      "name": "Gavran Biryani"
+    },
+    {
+      "id": "1c04",
+      "email": "aditya@test.com",
+      "password": "1234",
+      "name": "Aditya"
+    },
+    {
+      "id": "e655",
+      "email": "aditya@test.com",
+      "password": "1234",
+      "name": "Aditya"
+    },
+    {
+      "id": "55ae",
+      "email": "satya@test.com",
+      "password": "1234",
+      "name": "Satya"
+    },
+    {
+      "id": "4b44",
+      "email": "elvish@test.com",
+      "password": "123456",
+      "name": "elvish yadav"
+    },
+    {
+      "id": "16cf",
+      "email": "alia@test.com",
+      "password": "112345",
+      "name": "alia bhat"
+    },
+    {
+      "id": "25c0",
+      "email": "shailendra@test.com",
+      "password": "12345",
+      "name": "shailendra"
+    },
+    {
+      "id": "97a9",
+      "email": "Pratiksha@test.com",
+      "password": "1234",
+      "name": "Pratiksha shinde"
+    }
+  ],
+  "restsurant": [
+    {
+      "id": "3",
+      "name": "Bella Italia",
+      "contact": "2345678901",
+      "address": "456 Elm Street, Midtown, NY",
+      "userId": "4bfe"
+    },
+    {
+      "id": "4",
+      "name": "Sushi World",
+      "contact": "3456789012",
+      "address": "789 Oak Street, Uptown, NY",
+      "userId": "2f0e"
+    },
+    {
+      "id": "5",
+      "name": "Mexican Fiesta",
+      "contact": "4567890123",
+      "address": "101 Pine Street, Westside, NY",
+      "userId": "0c73"
+    },
+    {
+      "id": "6",
+      "name": "Vegan Delight",
+      "contact": "5678901234",
+      "address": "202 Maple Street, Eastside, NY",
+      "userId": "d6b6"
+    },
+    {
+      "id": "bf1d",
+      "name": "uma",
+      "address": "pune",
+      "contact": "7878787878",
+      "userId": "d6b6"
+    },
+    {
+      "id": "adf4",
+      "name": "uma",
+      "address": "pune",
+      "contact": "7878787878",
+      "userId": "d6b6"
+    },
+    {
+      "id": "1122",
+      "name": "uma",
+      "address": "pune",
+      "contact": "7878787878",
+      "userId": "d6b6"
+    },
+    {
+      "id": "dadd",
+      "name": "rayba",
+      "address": "pune baner",
+      "contact": "7676767676",
+      "userId": "d6b6"
+    },
+    {
+      "id": "cbf3",
+      "name": "rayba",
+      "address": "pune baner",
+      "contact": "7676767676",
+      "userId": "d6b6"
+    },
+    {
+      "id": "cb17",
+      "name": "bankss",
+      "address": "baner",
+      "contact": "7878675678",
+      "userId": "d6b6"
+    },
+    {
+      "id": "6bf6",
+      "name": "farmer's",
+      "address": "baner Pune",
+      "contact": "9867567878",
+      "userId": "4063"
+    },
+    {
+      "id": "d2bf",
+      "name": "kitchen's",
+      "address": "baner Pune",
+      "contact": "8989898989",
+      "userId": "4063"
+    },
+    {
+      "id": "4c26",
+      "name": "vadapav",
+      "address": "pune",
+      "contact": "1234567890",
+      "userId": "d0b5"
+    },
+    {
+      "id": "586d",
+      "name": "Gavran Biryani",
+      "address": "Chicago",
+      "contact": "097654321",
+      "userId": "be0f"
+    },
+    {
+      "id": "d1ec",
+      "name": "Hotel maharashtra",
+      "address": "honkong",
+      "contact": "0987654321",
+      "userId": "d5b1"
+    },
+    {
+      "id": "7ab2",
+      "name": "kfc",
+      "address": "france",
+      "contact": "0987654321",
+      "userId": "d5b1"
+    },
+    {
+      "id": "20dc",
+      "email": "sanketshinde@test.com",
+      "name": "sanket",
+      "password": "10101010010101"
+    },
+    {
+      "id": "7ab2",
+      "name": "kfc",
+      "address": "france",
+      "contact": "111111111",
+      "userId": "d5b1"
+    },
+    {
+      "id": "eb7e",
+      "name": "Gavran Biryani",
+      "address": "Chicago",
+      "contact": "09654321",
+      "userId": "d12e"
+    },
+    {
+      "id": "3865",
+      "name": "Gavran Biryani",
+      "address": "england",
+      "contact": "123456",
+      "userId": "37d5"
+    }
+  ]
+}
